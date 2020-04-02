@@ -1,6 +1,6 @@
 #ARG  VERSION=latest
 #FROM sonatype/nexus3:${VERSION}
-FROM sonatype/nexus3:3.16.2
+FROM sonatype/nexus3:3.21.2
 
 # The image needs to export the following ports:
 # 8081: nexus web
